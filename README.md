@@ -9,6 +9,7 @@ The project demonstrates key coding concepts including variables, data types, co
 
 
 FEATURES
+
 •	View all products in inventory
 
 •	Add new products
@@ -18,6 +19,7 @@ FEATURES
 •	Delete products
 
 •	Calculate total inventory value
+
 
 
 
