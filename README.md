@@ -2,7 +2,8 @@
 C# Console Application - Inventory Management System
 
 ABOUT
-A C# console application for managing product inventory, created for Microsoft's Foundations of Coding Full-Stack course as part of the Microsoft Full-Stack Developer Professional Certificate program.
+
+This is a C# console application for managing product inventory, created for Microsoft's Foundations of Coding Full-Stack course as part of the Microsoft Full-Stack Developer Professional Certificate program.
 The project demonstrates key coding concepts including variables, data types, control structures, loops, and methods.
 
 
