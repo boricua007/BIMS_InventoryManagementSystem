@@ -1,15 +1,17 @@
 # Inventory-Management-System
 C# Console Application - Inventory Management System
 
-ABOUT
+## ABOUT
 
 This is a C# console application for managing product inventory, created for Microsoft's Foundations of Coding Full-Stack course as part of the Microsoft Full-Stack Developer Professional Certificate program.
-The project demonstrates key coding concepts including variables, data types, control structures, loops, and methods.
+
+## Project Overview
+This project demonstrates foundational software engineering principles through a practical inventory management system. It showcases key programming concepts such as variables, data types, control structures, loops, and methods in a real-world context.
 
 
 
-FEATURES
 
+## FEATURES
 •	View all products in inventory
 
 •	Add new products
@@ -23,7 +25,7 @@ FEATURES
 
 
 
-SAMPLE DATA
+## SAMPLE DATA
 The app includes sample products:
 •	Apple ($0.50, 100 units)
 
@@ -32,7 +34,7 @@ The app includes sample products:
 •	Orange ($0.80, 80 units)
 
 
-CODE STRUCTURE
+## CODE STRUCTURE
 ├── Product Class
 
 │   ├── Name (string)
@@ -56,7 +58,7 @@ CODE STRUCTURE
     └── CalculateTotalValue() - Calculate inventory worth
 
     
-TECHNOLOGIES USED
+## TECHNOLOGIES USED
 •	C#
 
 •	.NET Console Application
@@ -64,4 +66,4 @@ TECHNOLOGIES USED
 •	Object-oriented programming concepts
 
 ________________________________________
-Final project for Microsoft Foundations of Coding Full-Stack course
+Final project for Microsoft Foundations of Coding Full-Stack C# Programming course
